@@ -1,6 +1,4 @@
 # Electron-Tailwind-React
- 
-# TecToy Space
 
 ## Instalação
 ```console
